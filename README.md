@@ -1,2 +1,4 @@
-# Datheon_Data_Analytics_-_Power_BI_Internship
-Data analytics internship projects: Python EDA and Power BI dashboards
+# Datheon Data Analytics & Power BI Internship
+
+## Completed tasks
+- Task 1: Exploratory Data Analysis on Superstore Retail Sales (see Task1_EDA/)
